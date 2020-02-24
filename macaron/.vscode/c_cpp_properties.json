@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/mac9603/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/mac9603/catkin_ws/src/vision_opencv/cv_bridge/include/**",
+                "/home/mac9603/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+                "/home/mac9603/catkin_ws/src/vision_opencv/image_geometry/include/**",
+                "/home/mac9603/catkin_ws/src/imu_pkg/include/**",
+                "/home/mac9603/catkin_ws/src/insgps_y/include/**",
+                "/home/mac9603/catkin_ws/src/obstacle/include/**",
+                "/home/mac9603/catkin_ws/src/ocams_1cgn/include/**",
+                "/home/mac9603/catkin_ws/src/parking_algorithm/include/**",
+                "/home/mac9603/catkin_ws/src/rosserial/rosserial_server/include/**",
+                "/home/mac9603/catkin_ws/src/rosserial/rosserial_test/include/**",
+                "/home/mac9603/catkin_ws/src/serial/include/**",
+                "/home/mac9603/catkin_ws/src/sick_tim/include/**",
+                "/home/mac9603/catkin_ws/src/sicktoolbox/include/**",
+                "/home/mac9603/catkin_ws/src/ros_tutorials/turtlesim/include/**",
+                "/home/mac9603/catkin_ws/src/usb_cam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
